@@ -1,4 +1,4 @@
-# ResNet-TCN
+# 专注度识别-ResNet-TCN
 
 PyTorch Implementation of ResNet-TCN Hybrid Architecture for End-to-End Video Classification/Regression
 
